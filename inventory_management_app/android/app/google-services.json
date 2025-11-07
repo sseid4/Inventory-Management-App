@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985173152011",
+    "project_id": "inventory-app-siyam",
+    "storage_bucket": "inventory-app-siyam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985173152011:android:e1e5133f30b1654725120e",
+        "android_client_info": {
+          "package_name": "com.example.inventory_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQTR0Mmw8U5HSaUi0HJxNEKkV5yXtU6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
